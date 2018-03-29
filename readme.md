@@ -1,6 +1,8 @@
+HEAD
 Prototype Website
 =================
 
-Built by [Richard, Lucy, Anna]
+Build by [Richard,Lucy,Anna]
 
-The best website in the world. Period. 
+Hello! Look at us adding great code for each other
+
