@@ -1,12 +1,8 @@
-HEAD
-Prototype Website
+Prototype website
 =================
 
 Build by [Richard,Lucy,Anna]
 
-Hello! Look at us adding great code for each other
+I want to learn about managing code across different environments
 
-OBJECTIVES:
-AP : how to explain CI to stakeholders more easily
 
-RB : understand github
